@@ -31,7 +31,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.rust" },
-  { import = "astrocommunity.colorscheme.vscode-nvim", enabled = true },
+  { import = "astrocommunity.colorscheme.vscode-nvim" },
   { -- further customize the options set by the community
     "zbirenbaum/copilot.lua",
     opts = {
